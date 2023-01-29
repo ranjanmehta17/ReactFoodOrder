@@ -1,0 +1,32 @@
+{
+  "name": "reactfoodorder",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjnmehta/ReactFoodOrder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjnmehta/ReactFoodOrder/issues"
+  },
+  "homepage": "https://github.com/ranjnmehta/ReactFoodOrder#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+    
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
