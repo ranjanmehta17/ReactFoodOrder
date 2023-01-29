@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { getRestaurantData } from './src/constant/constants';
 
 restaurantList = getRestaurantData();
-const f=""
+const f="nn"
 
 const Title = () => (
   <a href="/">
